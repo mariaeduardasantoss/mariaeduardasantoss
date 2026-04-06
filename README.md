@@ -5,7 +5,8 @@
 <div>
 <p>
 
-<img width="2000" height="1124" alt="image" src="https://github.com/user-attachments/assets/2591e166-63c0-437e-bae2-a6c187b33698" />
+ <img width="1219" height="364" alt="image" src="https://github.com/user-attachments/assets/f4a82e54-298d-477f-9bea-f5a8f0d411f4" 
+" />
 
 
 </p>
